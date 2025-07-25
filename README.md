@@ -29,7 +29,7 @@ Esta combinação foi escolhida para contar uma história coesa sobre a **jornad
 4.  Aprofundamos a análise logística, explorando a **relação financeira do frete** com a satisfação (Custos de Frete).
 5.  Finalmente, analisamos uma **alavanca de marketing** que impulsiona o volume de vendas (Eficácia de Campanhas).
 
-Esta abordagem permite não apenas responder a perguntas isoladas, mas também entender as interconexões entre as diferentes áreas do negócio.
+O que permite não apenas responder a perguntas isoladas, mas também entender as interconexões entre as diferentes áreas do negócio.
 
 ## Estrutura do Projeto
 
@@ -55,7 +55,7 @@ A execução do script `analise.py` gerou as seguintes visualizações, que nos 
 ### 2. Prazos de Entrega
 *Gráfico correspondente: `2_distribuicao_tempo_entrega.png`*
 
-**Interpretação:** O histograma mostra a distribuição do tempo de entrega em dias. Observa-se que a maioria das entregas ocorre num período entre 5 a 15 dias. No entanto, o gráfico também evidencia uma "cauda longa" à direita, indicando a existência de um número significativo de pedidos que demoram muito mais do que a média para serem entregues. Estes outliers são os principais candidatos a gerar insatisfação.
+**Interpretação:** O histograma mostra a distribuição do tempo de entrega em dias. Observa-se que a maioria das entregas ocorre num período entre 5 a 15 dias (ediavel via codigo; linhas 59). No entanto, o gráfico também evidencia uma "cauda longa" à direita, indicando a existência de um número significativo de pedidos que demoram muito mais do que a média para serem entregues. Estes outliers são os principais candidatos a gerar insatisfação.
 
 ### 3. Impacto dos Atrasos na Satisfação do Cliente
 *Gráfico correspondente: `3_impacto_atraso_satisfacao.png`*
